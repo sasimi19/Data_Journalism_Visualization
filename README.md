@@ -1,4 +1,3 @@
-# KPF_Data-Visualization_2016
 2016 한국언론진흥재단 ‘데이터시각화 실습’ 강의 개요
 ===============
 
@@ -8,6 +7,12 @@
 ##Sample_Code
 
 R package ‘ggmap’을 활용하여 일반 주소값을 위경도(lat/lon) 변환 코드와 실습한 결과물 Embed Code를 삽입할 수 있는 HTML 탬플릿을 포함하고 있습니다 
+
+##CartoDB_Mapping
+
+- 고액체납자 현황_HEATMAP (https://goo.gl/dTW81y)
+- 지진 '불의 고리'_INTENSITY (https://goo.gl/jYFkyH )
+- 맛집 지도_CATEGORY (https://goo.gl/sHRvSS)
 
 ##강의자료
 

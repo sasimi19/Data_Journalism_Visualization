@@ -98,7 +98,7 @@ R package ‘ggmap’을 활용하여 일반 주소값을 위경도(lat/lon) 변
 - GEN Summit 2016 (http://goo.gl/LY3vBC)
 
 
-#Contact (배여운)
+#Contact
 
 - woons.2016@gmail.com
 - Facebook (https://goo.gl/MxEzH0)

@@ -46,6 +46,8 @@ R package ‘ggmap’을 활용하여 일반 주소값을 위경도(lat/lon) 변
 	- Infogram (http://www.infogram.org/)
 	- CartoDB (http://cartodb.com)
 	- MAPBOX (http://mapbox.com)
+	- Chartbuilder (https://goo.gl/6exT94)
+	- Datawrapper (https://datawrapper.de/)
 - R관련
 	- Data Camp (https://www.datacamp.com/)
 	- Rddj (http://rddj.info/)
@@ -59,6 +61,8 @@ R package ‘ggmap’을 활용하여 일반 주소값을 위경도(lat/lon) 변
 
 #Articles
 
+- 미국에서 부상하는 데이터저널리즘 (http://goo.gl/EeKF7B)
+- 데이터가 저널리즘을 만났을 때 (http://goo.gl/SfzICw)
 - 지금은 저널리즘 대변환기 <상> 지역신문의 생존 전략-美 텍사스트리뷴 성공 비결 (http://goo.gl/mqsaFS)
 - 저널리즘의 또 다른 희망 '데이터 분석' (http://goo.gl/z8MwcI)
 - 왜 ‘데이터 저널리즘’인가? (http://goo.gl/LiOf5A)
@@ -89,8 +93,10 @@ R package ‘ggmap’을 활용하여 일반 주소값을 위경도(lat/lon) 변
 #Data Journalism Conference in 2016
 
 - NICAR 2016 (https://goo.gl/6RfaaZ)
+- NICAR REVIEW (http://blog.chryswu.com/)
 - IRE Conference 2016 (http://goo.gl/8XioBn)
 - GEN Summit 2016 (http://goo.gl/LY3vBC)
+
 
 #Contact (배여운)
 

@@ -61,6 +61,7 @@ R package ‘ggmap’을 활용하여 일반 주소값을 위경도(lat/lon) 변
 
 #Articles
 
+- 우리도 ‘스포트라이트’가 될 수 있을까? (http://goo.gl/x0AmIu)
 - 미국에서 부상하는 데이터저널리즘 (http://goo.gl/EeKF7B)
 - 데이터가 저널리즘을 만났을 때 (http://goo.gl/SfzICw)
 - 지금은 저널리즘 대변환기 <상> 지역신문의 생존 전략-美 텍사스트리뷴 성공 비결 (http://goo.gl/mqsaFS)

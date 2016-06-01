@@ -98,6 +98,12 @@ R package ‘ggmap’을 활용하여 일반 주소값을 위경도(lat/lon) 변
 - IRE Conference 2016 (http://goo.gl/8XioBn)
 - GEN Summit 2016 (http://goo.gl/LY3vBC)
 
+#Data Journalism Education
+- Knight Center for Journalism (https://goo.gl/abcsnF)
+- Learno by European Journalism Centre (http://goo.gl/sCbIIN)
+- DataCamp (http://datacamp.com)
+
+
 
 #Contact
 

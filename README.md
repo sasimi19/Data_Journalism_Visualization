@@ -91,6 +91,16 @@ R package ‘ggmap’을 활용하여 일반 주소값을 위경도(lat/lon) 변
 	- FT Data (http://blogs.ft.com/ftdata)
 	- The Economist (http://www.economist.com/blogs/graphicdetail)
 
+#Data Journalism Articles
+- SBS | 19대 국회의원 재산 분석, 여의도마블 (http://goo.gl/salH22)
+- SBS | 한국에서 가장 살기 힘든 지역 '힘내라 도시' (http://goo.gl/0tZAeQ)
+- SBS | 5·18항쟁① 전염병처럼 번진 왜곡의 실체 '극우인사-일베'의 분업 (http://goo.gl/stAMSP)
+- KBS | 재벌 식당① 전국 주요 상권마다 쏙쏙 입점…재벌과 경쟁하는 자영업 음식점 (http://goo.gl/oC1iN6)
+- KBS | 인터랙티브 차트로 비교해 보면…‘선거구별 후보자 정보’ (http://goo.gl/fkf4lJ)
+- YTN | 전세난 속 서울→경기도→외곽 연쇄 인구 이동 (http://goo.gl/fjk8TH)
+- YTN | 달라진 반기문 어법...'나' 언급 많아져 (http://goo.gl/xXD1rp)
+
+
 #Data Journalism Conference in 2016
 
 - NICAR 2016 (https://goo.gl/6RfaaZ)

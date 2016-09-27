@@ -4,6 +4,8 @@
 ‘데이터 저널리즘 & 시각화 실습’ 강의개요 입니다.  
 강의슬라이드, 참조URL, 샘플코드, 샘플데이터 등을 포함하고 있습니다. 
 궁금한 것들이 있으면 아래 연락처로 메일 혹은 쪽지 주세요
+
+
 ##Sample_Code
 
 R package ‘ggmap’을 활용하여 일반 주소값을 위경도(lat/lon) 변환 코드와 실습한 결과물 Embed Code를 삽입할 수 있는 HTML 탬플릿을 포함하고 있습니다 
@@ -16,9 +18,9 @@ R package ‘ggmap’을 활용하여 일반 주소값을 위경도(lat/lon) 변
 
 ##강의자료
 
-아래 링크에서 다운로드 받을 수 있습니다
+아래 링크에서 다운로드 보실 수 있습니다
 
-- Download (https://goo.gl/JNuj4r)
+- Download (https://www.icloud.com/keynote-live/sc:0DV9oi3CBd1chHrtZnWtV02IBwJ2M0R-wE4vcfm_IxATNjH4zc5p42i3O_k0lqnJ3B_)
 
 ##BOOKS
 - 월스트리트저널 인포그래픽 가이드 (http://goo.gl/yIJh17)
